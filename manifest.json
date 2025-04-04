@@ -1,0 +1,18 @@
+{
+  "author": "fengqingchen",
+  "files": [],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "minecraft": {
+    "version": "1.21.1",
+    "modLoaders": [
+      {
+        "id": "fabric-0.16.10",
+        "primary": true
+      }
+    ]
+  },
+  "name": "猫猫服务器3.1",
+  "overrides": "overrides",
+  "version": "3.1"
+}
